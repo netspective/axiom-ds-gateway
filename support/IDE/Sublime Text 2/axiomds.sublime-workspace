@@ -1,0 +1,376 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"row",
+				"rowNum"
+			],
+			[
+				"updat",
+				"updatedRow"
+			],
+			[
+				"fileP",
+				"filePreviewNavigate"
+			],
+			[
+				"work",
+				"workflow_status_text"
+			],
+			[
+				"COL",
+				"COLVALUE_RECORD_STATUS_ID_DELETED"
+			],
+			[
+				"dele",
+				"deleted"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"bat",
+				"batchChanges"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"record",
+				"record_status_id"
+			],
+			[
+				"array_k",
+				"array_key_exists"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"sho",
+				"showBatchProcessingMessage"
+			],
+			[
+				"batchUpdateStatusArea_update",
+				"batchUpdateStatusArea_updateDocNum"
+			],
+			[
+				"progr",
+				"progressBar"
+			],
+			[
+				"start",
+				"started"
+			],
+			[
+				"it",
+				"iteration"
+			],
+			[
+				"doc",
+				"documentId"
+			],
+			[
+				"scro",
+				"scrollToDocumentId"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"workflow",
+				"workflow_status"
+			],
+			[
+				"fileS",
+				"fileSize"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 111.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/P/axiom-ds-gateway/src/netspective/axiomds/config/config.go",
+		"/P/axiom-ds-gateway/src/netspective/axiomds/rdbms/conn.go",
+		"/P/axiom-ds-gateway/src/main.go",
+		"/P/axiom-ds-gateway/src/netspective/axiomds/service/options.go",
+		"/C/Tools/go/src/pkg/image/gif/reader.go",
+		"/C/Tools/go/src/pkg/text/template/doc.go",
+		"/C/Tools/go/src/pkg/database/sql/fakedb_test.go",
+		"/C/Tools/go/src/pkg/database/sql/sql.go",
+		"/C/Tools/go/src/pkg/image/image.go",
+		"/C/Tools/go/src/pkg/image/format.go",
+		"/C/Tools/go/src/pkg/image/png/reader.go",
+		"/C/Tools/go/src/pkg/text/template/parse/lex.go",
+		"/C/Tools/go/src/pkg/database/sql/convert.go",
+		"/C/Tools/go/src/pkg/errors/example_test.go",
+		"/C/Tools/go/src/pkg/errors/errors.go",
+		"/P/OGE/docs-admin/docs-admin.go",
+		"/C/Tools/go/src/pkg/database/sql/driver/types.go",
+		"/C/Tools/go/src/pkg/database/sql/driver/driver.go",
+		"/P/NEFS/support/ide/IDEA/NEFS.iml",
+		"/P/NEFS/support/ide/IDEA/Netspective Frameworks IDEA 9.0.ipr",
+		"/P/axiom-ds-gateway/support/docs/axiom-data-server.plantuml",
+		"/P/OGE/FinDiscNonPAS/layout/navbar.php",
+		"/C/Users/Shahid/Desktop/axiom-data-server.plantuml",
+		"/P/OGE/FinDiscNonPAS/data-svc/document-list.php",
+		"/P/OGE/FinDiscNonPAS/config.inc.php",
+		"/P/OGE/FinDiscNonPAS/review-ui.php",
+		"/P/OGE/FinDiscNonPAS/single-file-upload-ui.php",
+		"/P/OGE/FinDiscNonPAS/data-svc/document-update.php",
+		"/P/OGE/FinDiscNonPAS/data-svc/http-do-not-cache-pragmas.inc.php",
+		"/P/OGE/FinDiscNonPAS/data-svc/document-serve.php",
+		"/P/OGE/FinDiscNonPAS/data-svc/multi-file-upload-handler.php",
+		"/P/OGE/FinDiscNonPAS/data-svc/server-time.php",
+		"/P/OGE/FinDiscNonPAS/data-svc/single-file-upload-handler.php",
+		"/P/OGE/FinDiscNonPAS/data-svc/state-manager.php",
+		"/P/OGE/FinDiscNonPAS/data-svc/activity-log.php",
+		"/P/OGE/FinDiscNonPAS/data-svc/max-feed.php",
+		"/P/OGE/FinDiscNonPAS/casauth.php",
+		"/P/OGE/FinDiscNonPAS/data-svc/data-model/oge-admin-schema.liquibase.xml",
+		"/P/OGE/FinDiscNonPAS/data-svc/data-model/oge-admin-schema.sql",
+		"/P/OGE/FinDiscNonPAS/cas/CAS.php",
+		"/P/OGE/FinDiscNonPAS/casauth-devl.inc.php",
+		"/P/OGE/FinDiscNonPAS/common.inc.php",
+		"/C/Users/Shahid/Desktop/casauth-devl.php",
+		"/P/OGE/FinDiscNonPAS/casauth-devl.php",
+		"/C/Windows/System32/Drivers/etc/hosts",
+		"/C/Users/Shahid N. Shah/AppData/Local/Temp/scp35976/home2/blueserf/public_html/devl.bfelob.netspective.com/OGE/FinDiscNonPAS/config.inc.php",
+		"/C/Users/Shahid N. Shah/AppData/Local/Temp/scp07528/home2/blueserf/public_html/devl.bfelob.netspective.com/OGE/FinDiscNonPAS/data-svc/state-manager.php",
+		"/C/Users/Shahid N. Shah/AppData/Local/Temp/scp16035/home2/blueserf/public_html/devl.bfelob.netspective.com/OGE/FinDiscNonPAS/review-ui.php",
+		"/C/Users/Shahid N. Shah/AppData/Local/Temp/scp34061/home2/blueserf/public_html/devl.bfelob.netspective.com/OGE/FinDiscNonPAS/common.inc.php",
+		"/C/Users/Shahid N. Shah/AppData/Local/Temp/scp25509/home2/blueserf/public_html/devl.bfelob.netspective.com/OGE/FinDiscNonPAS/data-svc/document-update.php",
+		"/C/Users/Shahid N. Shah/AppData/Local/Temp/scp24524/home2/blueserf/public_html/devl.bfelob.netspective.com/OGE/FinDiscNonPAS/data-svc/user-state.php",
+		"/C/Users/Shahid N. Shah/AppData/Local/Temp/scp26860/home2/blueserf/public_html/devl.bfelob.netspective.com/OGE/FinDiscNonPAS/data-svc/max-feed.php",
+		"/C/Users/Shahid N. Shah/AppData/Local/Temp/scp26426/home2/blueserf/public_html/devl.bfelob.netspective.com/OGE/FinDiscNonPAS/data-svc/single-file-upload-handler.php",
+		"/C/Users/Shahid/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/3O2U7UAF/shah_video.txt",
+		"/C/Users/Shahid/AppData/Local/Temp/scp06696/home2/blueserf/public_html/devl.bfelob.netspective.com/OGE/FinDiscNonPAS/review-ui.php",
+		"/C/Users/Shahid/AppData/Local/Temp/scp11054/home2/blueserf/public_html/devl.bfelob.netspective.com/OGE/FinDiscNonPAS/data-svc/document-list.php",
+		"/C/Users/Shahid/AppData/Local/Temp/scp52265/home2/blueserf/public_html/devl.bfelob.netspective.com/OGE/FinDiscNonPAS/config.inc.php",
+		"/C/Users/Shahid/AppData/Local/Temp/scp19349/home2/blueserf/public_html/devl.bfelob.netspective.com/OGE/FinDiscNonPAS/casauth.php",
+		"/C/Users/Shahid/AppData/Local/Temp/scp16946/home2/blueserf/public_html/devl.bfelob.netspective.com/OGE/FinDiscNonPAS/data-svc/data-model/oge-admin-schema.liquibase.xml",
+		"/C/Users/Shahid N. Shah/Dropbox/Netspective IT/Netspective Directory Seed Data.ldif",
+		"/C/Users/Shahid/AppData/Local/Temp/scp06361/home2/blueserf/public_html/devl.bfelob.netspective.com/OGE/FinDiscNonPAS/multi-file-upload-ui.php",
+		"/C/Users/Shahid N. Shah/AppData/Local/Temp/scp17395/home2/blueserf/public_html/devl.bfelob.netspective.com/OGE/FinDiscNonPAS/TODO.md.html",
+		"/C/Users/Shahid N. Shah/AppData/Local/Temp/scp07242/home2/blueserf/public_html/devl.bfelob.netspective.com/OGE/FinDiscNonPAS/review-ui.php",
+		"/C/Users/Shahid N. Shah/AppData/Local/Temp/scp58610/home2/blueserf/public_html/devl.bfelob.netspective.com/OGE/FinDiscNonPAS/data-svc/filtered-form-files-data.php",
+		"/C/Users/Shahid N. Shah/AppData/Local/Temp/scp45351/home2/blueserf/public_html/devl.bfelob.netspective.com/OGE/FinDiscNonPAS/data-svc/filtered-form-files-data.php",
+		"/C/Users/Shahid N. Shah/AppData/Local/Temp/scp46500/home2/blueserf/public_html/devl.bfelob.netspective.com/OGE/FinDiscNonPAS/config.inc.php",
+		"/C/Users/Shahid N. Shah/AppData/Local/Temp/scp34738/home2/blueserf/public_html/devl.bfelob.netspective.com/OGE/FinDiscNonPAS/assets/external/mustache-0.5.2.js",
+		"/C/Users/Shahid N. Shah/AppData/Local/Temp/scp08868/home2/blueserf/public_html/devl.bfelob.netspective.com/OGE/FinDiscNonPAS/review-ui.php",
+		"/C/Users/Shahid N. Shah/Dropbox/Projects/test.liquibase.xml",
+		"/C/Users/Shahid N. Shah/Dropbox/Applications/Sublime Text 2/Data/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\Tools\\go\\src\\pkg\\image",
+			"P:\\OGE\\FinDiscNonPAS"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"register",
+			"C:/Projects/Frameworks",
+			"Frameworks",
+			"/Frameworks",
+			"verbose",
+			"icon-",
+			"Usually",
+			" Next",
+			"setWorkflowStatusFromFilePreview",
+			">close",
+			"close form view",
+			"setWorkflowStatusFromFilePreview",
+			"setdocssele",
+			"Displaying ",
+			" selected",
+			"filesSummaryDisplayCountArea",
+			"Processing batch",
+			"setBatchValue",
+			"recordStatusId",
+			"unreview",
+			"{color}",
+			"if\\(\\$_REQUEST\\['(.*?)'\\]\\)",
+			"if($_REQUEST['agency'])",
+			"if\\(\\$_REQUEST\\['(.*?)'\\]\\)",
+			"if($_REQUEST['(.*?)'])",
+			"phpCAS::getAttributes",
+			"FK_document_cr_session_id",
+			"references=\"(.*?)\\.(.*?)\"",
+			"references=",
+			".",
+			"CAS_VERSION_2_0",
+			"OFFSITE",
+			"filesSummary_message",
+			"loadingRecsMsgArea",
+			"showRecordsLoadingMessage",
+			"loading",
+			"filesSummary_",
+			"showBatchProcessingMessage",
+			"batchUpdateStatusArea",
+			"showBatchProcessingMessage",
+			"filesCountSummaryArea",
+			"batchUpdateStatusArea",
+			"filterAreaDisplay",
+			"showBatchProcessingMessage",
+			"progressBar",
+			"batchUpdateStatusArea",
+			"logsimp",
+			"scrollToDocumentId",
+			"scrollto",
+			"scrollToDocumentId",
+			"data_row",
+			"setDocsSelected",
+			"toggleDocSelection",
+			"&nbsp;",
+			"toggleSe",
+			"filesSummaryArea",
+			"alert",
+			"review-ui",
+			"'+ $key +'",
+			"async",
+			"toggleSelection",
+			"$parameters[3]",
+			"disable",
+			"loading",
+			"setfilter",
+			"rowHoverDataArea"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"P:/NEFS",
+			"if(array_key_exists('$1', $_REQUEST))",
+			"references=\"$1($2)\"",
+			"showWorkingMessage",
+			"'. $key .'",
+			"$value"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 294.0,
+	"status_bar_visible": true
+}

@@ -1,0 +1,27 @@
+@startuml
+
+actor "User" as user
+
+participant "Browser" as browser
+participant "Web\nServer" as web_server
+participant "App\nServer" as app_server
+participant "Web\nApp\non Server" as web_app
+participant "DB\nServer" as db_server
+participant "Axiom\nData\nServer" as axiom
+
+user -> browser
+browser -> web_server
+web_server -> app_server
+app_server -> web_app
+web_app -> db_server : SQL
+db_server --> web_app : Cursor
+web_app --> app_server : HTML/JavaScript
+app_server --> web_server : HTML/JavaScript
+web_server --> browser : HTML/JavaScript
+
+browser -> axiom : AJAX
+axiom -> db_server : SQL
+db_server --> axiom : Cursor
+axiom --> browser : JSON
+
+@enduml

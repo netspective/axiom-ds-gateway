@@ -1,0 +1,56 @@
+{
+    "configure" : [
+        {
+            "RDBMS Data Source" : {
+                "Name" : "Connection1",
+                "Driver" : "",
+                "Connection Parameters" : ""
+            }
+        },
+        {
+            "SQL DML" : {
+                "Name" : "Query1_simple",
+                "Route" : "",
+                "Table Name" : "",
+                "Command" : "Insert",
+                "Allowed Columns" : "Discover",
+                "Primary Key Columns" : "Discover",
+                "Return on Success" : "Primary Keys"
+            }
+        },
+        {
+            "SQL DQL" : {
+                "Name" : "Query1_simple",
+                "Route" : "",
+                "DQL" : "select * from somewhere",
+                "Return on Success" : "Multiple Rows as Hash List"
+            }
+        },
+        {
+            "SQL DQL" : {
+                "Name" : "Query2_simple_with_params",
+                "Route" : "",
+                "DQL" : "select * from somewhere else",
+                "Params" : ["vs1", "vs2"]
+            }
+        },
+        {
+            "SQL DQL" : {
+                "Name" : "Query3_different_sql_per_rdbms",
+                "Route" : "",
+                "DQL" : [
+                    {
+                        "RDBMS" : "mysql",
+                        "DQL" : "select * from another table",
+                        "Params" : ["vs1", "vs2"]
+                    },
+                    {
+                        "RDBMS" : "oracle",
+                        "DQL" : "select * from another table",
+                        "Params" : ["vs1", "vs2"]
+                    }
+                ]
+            }
+        }
+    ]
+}
